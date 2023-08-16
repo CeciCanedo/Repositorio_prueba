@@ -1,2 +1,2 @@
-Borrado primera linea
-Segunda linea 
+Este archivo de versiones 
+está en la rama otra rama
