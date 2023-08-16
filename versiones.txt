@@ -4,3 +4,5 @@ Versión 1-1
 Versiones 1-2
 Este archivo de versiones 
 está en la rama otra rama
+
+Este texto fue agregado desde GitHub
