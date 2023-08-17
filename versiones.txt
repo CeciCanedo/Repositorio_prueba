@@ -1,3 +1,5 @@
 Versiones 1.2
 Este archivo de versiones 
 está en la rama otra rama
+
+Texto agregado desde Github
