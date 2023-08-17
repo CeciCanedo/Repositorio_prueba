@@ -5,4 +5,4 @@ Versiones 1-2
 Este archivo de versiones 
 está en la rama otra rama
 
-Este texto fue agregado desde GitHub
+Texto agregado desde GitHub
